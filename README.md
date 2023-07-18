@@ -1,4 +1,4 @@
-# R Data Science Project: Getting and Cleaning Data Project
+# R Data Science: Getting and Cleaning Data Project
 Author: Victor Tariah 
 Datasets used URL: [Data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
 
@@ -12,11 +12,11 @@ Datasets used URL: [Data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojec
 
 Goal | Item | Link to Items
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/tariah7/R_DataScienceProject/ "run_analysis.R")
-Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/tariah7/R_DataScienceProject/ "tidyData.txt")
-Github Repo | Repo |  [Repo Link](https://github.com/tariah7/R_DataScienceProject/"Click to go to Repo")
-Cookbook | CodeBook.md |  [Repo Link](https://github.com/tariah7/R_DataScienceProject/CodeBook.md "CodeBook.md")
-README | README.md |  [Repo Link](https://https://github.com/tariah7/R_DataScienceProject/ "README.md")
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/tariah7/R_DataScienceProject/blob/main/run_analysis.qmd "run_analysis.R")
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/tariah7/R_DataScienceProject/blob/main/Data/tidyData.txt "tidyData.txt")
+Github Repo | Repo |  [Repo Link](https://github.com/tariah7/R_DataScienceProject "Click to go to Repo")
+Cookbook | CodeBook.md |  [Repo Link](https://github.com/tariah7/R_DataScienceProject/blob/main/CodeBook.md "CodeBook.md")
+README | README.md |  [Repo Link](https://github.com/tariah7/R_DataScienceProject/blob/main/README.md "README.md")
 
 ## Links to the main Course
 [R Programming (JHU Coursera)](https://medium.com/@GalarnykMichael/in-progress-review-course-2-r-programming-jhu-coursera-ad27086d8438#.bzzr29fvo "Review + data.table")
