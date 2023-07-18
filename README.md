@@ -1,6 +1,6 @@
 # R Data Science: Getting and Cleaning Data Project
 Author: Victor Tariah 
-### Datasets used 
+### Datasets used for this project
 [Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
 
 ## Goal of the Project
