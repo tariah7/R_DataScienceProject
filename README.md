@@ -1,6 +1,7 @@
 # R Data Science: Getting and Cleaning Data Project
 Author: Victor Tariah 
-Datasets used URL: [Data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
+### Datasets used 
+[Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
 
 ## Goal of the Project
 1. Create a tidy data set 
